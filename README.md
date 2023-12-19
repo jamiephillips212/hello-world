@@ -1,2 +1,2 @@
 # hello-world
-first website from scratch for code fellows
+Learning HTML and etc is cool!
