@@ -1,1 +1,48 @@
+body{ 
+    background-color: #DAB590;
+padding: 15%
+}
 
+main{
+    background-color; #AD6E2F;
+}
+
+h1{
+   <<<<<<<< HEAD
+   color: #FA9F43;
+    =======
+    text-align: center;
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold
+    >>>>>>>
+}
+
+section{
+    border: color(srgb red green rgb(133,84,36));
+    display: inline-block;
+    width: 30% 
+    align-items: stretch;
+}
+
+ul{
+    background-color: #5C3A19;
+}
+
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    width; 40%;
+}
+
+
+center{
+    display: block;
+    margin-left: auto;
+    margin-left: auto;
+    width: 50% 
+}
