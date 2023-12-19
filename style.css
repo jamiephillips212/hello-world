@@ -23,7 +23,7 @@ h1{
 section{
     border: color(srgb red green rgb(133,84,36));
     display: inline-block;
-    width: 30%: 
+    width: 30%;
     align-items: stretch;
 }
 
@@ -43,3 +43,4 @@ center{
     margin-left: auto;
     margin-left: auto;
     width: 50% 
+}
