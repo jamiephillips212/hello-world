@@ -4,13 +4,11 @@ padding: 15%
 }
 
 main{
-    background-color; #AD6E2F;
+    background-color: #AD6E2F;
 }
 
 h1{
-   <<<<<<<< HEAD
    color: #FA9F43;
-    =======
     text-align: center;
     display: block;
     font-size: 2em;
@@ -19,13 +17,13 @@ h1{
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     font-weight: bold
-    >>>>>>> 70ae8058e113c6161cdb97cc9678da3d245d509d
+    
 }
 
 section{
     border: color(srgb red green rgb(133,84,36));
     display: inline-block;
-    width: 30% 
+    width: 30%: 
     align-items: stretch;
 }
 
@@ -36,7 +34,7 @@ ul{
 nav ul li{
     list-style: none;
     display: inline-block;
-    width; 40%;
+    width: 40%;
 }
 
 
@@ -45,4 +43,3 @@ center{
     margin-left: auto;
     margin-left: auto;
     width: 50% 
-}
