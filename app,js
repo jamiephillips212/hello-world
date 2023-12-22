@@ -1,0 +1,65 @@
+`use strict`;
+alert("Welcome to the Writer Central");
+alert("Grab your pen, pencil, laptop, or keyboard, and let's begin!")
+//const author =prompt("What's your favorite book ever written?");
+
+function getName(){
+    const author = prompt("What is your favorite book ever written?");
+    return author;
+}
+
+let author = getName();
+
+console.log(`theirauthor`);
+
+function greetUser()[
+    document.write("Hey! " + theirauthor + " is one of favorites too!");
+]
+
+
+let response = promt (`Question: Is the best media books?`);
+
+while (response.toLowerCase)( != `yes`){
+response - prompt(`wrong! Try again!`);
+}
+
+
+function rateMyPage(){
+    let rating =prompt("How many stars would you rate my page? 1-5");
+
+    for (let i=0; i <rating; i++)
+
+}
+
+
+
+// function coolOrNo(){
+//  const bookworm = prompt("Are the best books nonfiction books?")
+// console.log(bookworm);
+
+// if (bookworm == "yes"){
+    document.write(`You're in the right place!`);
+// } else if (bookworm == "no"){
+    document.write("You have a lot to learn!");
+// } else {
+//  coolOrNoWarn();
+//  }
+// }
+
+// function coolorNoWarn(){
+//  const bookworm2 = prompt("Another chance to be nice! "Are the best books nonfiction books?")
+// console.log(bookworm2);
+
+// if (bookworm2 == `yes`){
+    document.write(`You're in the right place!`);
+// } else if (bookworm2 == "no"){
+// } document.write(`You have a lot to learn!`);
+// } else {
+// coolOrNoWarn();
+// }
+// }
+
+// function coolOrNoWarn(){
+// const bookworm3 = prompt ("We can do this all day. Are the best books nonfiction books?")
+// console.log(bookworm3)
+// }
