@@ -10,27 +10,18 @@ function getName(){
 
 let author = getName();
 
-console.log(`theirauthor`);
+console.log(`author`);
 
-function greetUser()[
-    document.write("Hey! " + theirauthor + " is one of favorites too!");
-]
+function greetUser(){
+    document.write("Hey! " + author + " is one of favorites too!");
+}
 
 
 let response = prompt (`Question: Is the best media books?`);
 
-while (response.toLowerCase)( != `yes`){
-response - prompt(`wrong! Try again!`);
+while (response.toLowerCase()( != `yes`){
+response = prompt(`wrong! Try again!`);
 }
-
-
-function rateMyPage(){
-    let rating =prompt("How many stars would you rate my page? 1-5");
-
-    for (let i=0; i <rating; i++)
-
-}
-
 
 
 // function coolOrNo(){
@@ -58,8 +49,6 @@ function rateMyPage(){
 // coolOrNoWarn();
 // }
 // }
-
-// function coolOrNoWarn(){
 // const bookworm3 = prompt ("We can do this all day. Are the best books nonfiction books?")
 // console.log(bookworm3)
 // }
