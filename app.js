@@ -19,7 +19,7 @@ function greetUser(){
 
 let response = prompt (`Question: Is the best media books?`);
 
-while (response.toLowerCase()( != `yes`){
+while (response.toLowerCase()!= `yes`){
 response = prompt(`wrong! Try again!`);
 }
 
