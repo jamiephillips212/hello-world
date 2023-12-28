@@ -27,8 +27,8 @@ response = prompt(`wrong! Try again!`);
 function rateMyPage(){
     let rating = prompt("How many stars would you rate my page? 1-5");
 
-    for (let i = 0; 1 < rating; i++){
-        document.write("<img class=`loop-img` src=`five-star-rating-png-transparent-images-free-download-2020.png` alt=`5 pointed stars` />");
+    for (let i = 0; i < rating; i++){
+        document.write("<img class=`loop-img` src=`five-star-rating-png-transparent-images-free-download-2020.png` alt=`5 pointed stars in a cartoon style` />");
     }
 }
 
@@ -89,6 +89,5 @@ function rateMyPage(){
 // function coolOrNo(){
 //    const bookworm = prompt("Are the best books nonfiction books?")
 // console.log(bookworm);
-//  coolOrNoWarn();
 //  }
 // }
