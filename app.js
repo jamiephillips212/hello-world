@@ -36,19 +36,3 @@ response = prompt(`wrong! Try again!`);
 //  coolOrNoWarn();
 //  }
 // }
-
-// function coolorNoWarn(){
-//  const bookworm2 = prompt("Another chance to be nice! "Are the best books nonfiction books?")
-// console.log(bookworm2);
-
-// if (bookworm2 == `yes`){
-    document.write(`You're in the right place!`);
-// } else if (bookworm2 == "no"){
-// } document.write(`You have a lot to learn!`);
-// } else {
-// coolOrNoWarn();
-// }
-// }
-// const bookworm3 = prompt ("We can do this all day. Are the best books nonfiction books?")
-// console.log(bookworm3)
-// }
